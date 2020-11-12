@@ -6,6 +6,8 @@ import java.awt.event.MouseListener;
 
 import javax.swing.JFrame;
 
+import _06_Pixel_Art_Save_State.ColorSelectionPanel;
+
 public class PixelArtMaker implements MouseListener{
 	private JFrame window;
 	private GridInputPanel gip;
